@@ -28,8 +28,8 @@ const questions = () => [
     },
     {
         type: 'input',
-        name: 'video',
-        message: 'Add a link to a video or screenshot showing the user how to use the application.'
+        name: 'image',
+        message: 'Add a link to a screenshot showing the user how to use the application.'
     },
     {
         type: 'input',
@@ -45,12 +45,12 @@ const questions = () => [
     {
         type: 'input',
         name: 'github',
-        message: 'Enter your GitHub Username',
+        message: 'Enter your GitHub Username:',
     },
     {
         type: 'input',
         name: 'email',
-        message: 'Enter your email',
+        message: 'Enter your email:',
     },
 ];
 
