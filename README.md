@@ -22,19 +22,17 @@
   
   ## Usage
 
-  Install the neccessary dependencies then run 'node index' in the command line. 
-  
-  [Demo](p)
+  Install the necessary dependencies then run 'node index' in the command line 
 
   ## Tests
 
   Run the following command to run tests
   ```
-  
+  none
   ```
   
   
-  ## [License]
+  ## License
 
   The application is covered under the MIT license.
     

@@ -54,8 +54,6 @@ function generateMarkdown(data) {
   ## Usage
 
   ${data.usage} 
-  
-  [Demo](${data.video})
 
   ## Tests
 

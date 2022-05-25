@@ -29,11 +29,6 @@ const questions = () => {
         },
         {
             type: 'input',
-            name: 'video',
-            message: 'Add a link to a video showing the user how to use the application.'
-        },
-        {
-            type: 'input',
             name: 'tests',
             message: 'What command is used to run tests?',
         },
