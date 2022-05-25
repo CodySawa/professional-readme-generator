@@ -21,7 +21,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseSection(license) {
   return `
-  ## [License]
+  ## License
 
   The application is covered under the ${license} license.
     `;
