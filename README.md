@@ -24,6 +24,12 @@
 
   Install the necessary dependencies then run 'node index' in the command line 
 
+
+
+https://user-images.githubusercontent.com/89723289/170201877-7d2131aa-f3d7-449b-9768-9a92c8153d28.mp4
+
+
+
   ## Tests
 
   Run the following command to run tests
