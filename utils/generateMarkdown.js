@@ -55,7 +55,7 @@ function generateMarkdown(data) {
 
   ${data.usage} 
   
-  [screenshot](${data.image})
+  [Demo](${data.video})
 
   ## Tests
 
